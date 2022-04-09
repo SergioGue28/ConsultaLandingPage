@@ -1,0 +1,43 @@
+body
+{
+    background: rgb(248, 249, 250);
+}
+
+.encabezado
+{
+    position: absolute;
+    width: 300px;
+    font-family: roboto;
+}
+
+.consulta
+{
+    position: absolute;
+    font-size: 40px;
+    left: 45px;
+    top: 10px;
+}   
+.dom
+{
+    position: absolute;
+    font-size: 30px;
+    left: 50px;
+    top: 140px;
+}
+
+.cuerpo
+{
+    position: absolute;
+    position: absolute;
+    width: 1000px;
+    font-family: roboto;
+    left: 50px;
+    top: 300px;
+}
+
+.pie
+{
+    position: absolute;
+    left: 50px;
+    top: 800px;
+}
